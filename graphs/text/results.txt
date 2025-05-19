@@ -1,0 +1,23 @@
+roberta
+max_pearson: 0.3442
+
+Admiration: Pearson correlation = 0.4761
+Amusement: Pearson correlation = 0.3707
+Determination: Pearson correlation = 0.3571
+Empathic Pain: Pearson correlation = 0.4214
+Excitement: Pearson correlation = 0.3261
+Joy: Pearson correlation = 0.3122
+Emotion with highest validation correlation: Admiration (0.4761)
+
+MPNet
+max_pearson: 0.3380
+
+Admiration: Pearson correlation = 0.4732
+Amusement: Pearson correlation = 0.3510
+Determination: Pearson correlation = 0.3656
+Empathic Pain: Pearson correlation = 0.3886
+Excitement: Pearson correlation = 0.3360
+Joy: Pearson correlation = 0.3089
+Emotion with highest validation correlation: Admiration (0.4732)
+
+

@@ -1,0 +1,5 @@
+*.pth
+/models/
+/venv/
+.ipynb_checkpoints
+*embeddings*
